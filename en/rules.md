@@ -1,54 +1,40 @@
 ---
 title: "Rules"
-old_id: 9
+old_id: 16
 ---
-<h4 class="cenetered">Rules may be changed at any time as we see fit.<br>New rules may or may not be retroactive at our own discretion.</h4>
+***Rules can be edited at any time.
+New rules can be abusive for our mood.***
 
-<h3><i class="game icon"></i> General rules</h3>
+**Main rules**</br>
+*Any rulebreaking in this section gives you an restriction or a ban, temp or permanent, in case of an order.*
+- Any lie, cheating and other kinds of hacking are prohibited.
+- Modified osu! clients, for an exception of next rule, are not allowed.
+- Client fixes (instead of hosts changing) is allowed, but we can’t help you if you will break game client O_o.
+- Shared or boosted accounts are prohibited.
+- Don’t try to use another community server for bad purposes. If you are going to tell us about vulnerability, do this responsibly and tell about this to our staff members.
+- Use your own nicknames (without insulting or stolen names, for example, you can’t use these: Cookiezi, WubWoofWolf, Rafis, _index, alumetri etc.)
+- Don’t use our patience; We’re trying to satisfy the needs of our users, If you are multi-rulebreaking or abusing our services, for example: ban appeal or 1 free name change (Especially in case of users, who also disrespects the efforts of our staff), we’re will warn you, and if this will happen again, we will offer the ultimatum. If you are rejecting or you will not change your behaviour, we will have no other choice, besides ban you.
 
-#### _Any violation of the rules in this section will result in a **restriction or ban, temporary or permanent**, depending on the gravity._
+ **Chat rules**</br>
+*Any rulebreaking in this section gives you silence.
+These rules working for the Discord, as like to the game chat. In Discord chat there some rules, specific to Discord server. For this reason you also need to check #rules channel on the server.*
 
-1. **Cheating** and any other form of hacking are strictly prohibited.
-2. **Edited clients,** with the exception for the next rule, are not allowed.
-3. **Client patching** (instead of host redirection) is allowed but we won't help you if you break the client.
-4. **Shared or boosted** accounts are not allowed.
-5. Don't try to **exploit the server** or other akerino. If you intend to report a vulnerability, do so responsibly and by contacting the developers.
-6. Use an **appropriate username** (no offensive or **stolen names**, e.g. you can't choose to be Cookiezi, WubWoofWolf, Rafis, _index, etc...)
-7. **Don't abuse our patience;** while we try to best satisfy our users' need, if you repeatedly infringe our rules or abuse services provided by the staff (e.g. appealing and name changing) (with particular regard to users who also disrespect our staff's efforts, passively or actively, or are otherwise toxic within the community), we will first warn you, and if it comes to it we will offer an ultimatum. If you refuse or otherwise don't change your behaviour, we'll have no choice but to ban you.
+- Avoid any insults to people. Try to be friendly. If you can’t, try to be constructive in argue.
+- Racism is strongly prohibited. Terms like «stupid» и «fogy» good for objects, but not for people.
+- Spam or flood, if you post a link from time to time, for example, to Twitch, if you are streaming Katori, when there are no active people is not allowed.
+- Any lawbreaking things, viruses are strongly prohibited. (This includes posting parts of the source code that you are not allowed to share.)
+- NSFW and mutilations vids or pics are not allowed.
+- If this is not special-language channel, please, speak in English.
+- Do not make any allegations of rulebreaking by users in each channel. (use #reports in Discord or tell this to community manager)
+Remember to follow the general rules above!
 
-<h3><i class="comment icon"></i> Chat rules</h3>
+**Profile rules.**</br>
+*Any rulebreaking in this section gives you an silence and profile reset/avatar reset.*
+- NSFW containment and insulting avatars/profiles are prohibited.
+- Do not link to lawbreaking things, except porn/hacks/viruses on the user profile.
+- Don’t use insulting user badges and do not pretend to be someone with his special badge. If you’re abusing the badge system, you will be forced to change your badge or you will not be able to edit your custom badge again.
+- Lies and multi-accounting are strongly prohibited.
+- This doesn’t matter if you will change the osu! server - we’re carrying only about you’ve done on Katori.
+- Multi-accounts are NOT allowed, with several exceptions. For example, if you’re a dev and you need an account, - write to support by mail.
 
-#### _Any violation of the rules in this section will result in a **silence**._
-
-These apply to both Discord AND the in-game chat. The Discord chat also has some rules which are specific to the Discord server itself; for this reason you should also check out the `#rules` channel on the server.
-
-1. Avoid any kind of insults to people. Try to be friendly. If not, try to discuss in a constructive manner.
-2. Racial slurs are absolutely not allowed. Terms like "retarded", and "autistic" are fine on objects, definitely not on people.
-3. Don't **spam or flood**, unless you're occasionally sending a link to e.g. Twitch when you're streaming Ripple when no discussion is going on.
-4. Any kind of **illegal content, warez, or viruses** is strictly prohibited. (This includes posting parts of source code that you have no legal right to share.)
-5. No NSFW or gore content.
-6. Unless it's a language channel, please speak English.
-7. Don't make any kind of **cheating accusation** (Use #cheaterreporting on Discord or report the person you suspect to a Community Manager)
-8. Remember also to follow the **General rules** above!
-
-<h3><i class="user icon"></i> Profile rules</h3>
-
-#### _Any violation of the rules in this section will result in a **silence and userpage/avatar reset**._
-
-1. **NSFW and offensive** avatars/userpage contents are not allowed.
-2. Don't link to **illegal stuff**/porn/warez/viruses on userpages.
-3. Do not use **offensive custom badges** and do not **pretend to be someone else with your custom badge**. If you abuse the badges system, you'll be silenced and you won't be able to edit your custom badge anymore.
-
-<h3><i class="file text outline icon"></i> Cheat/multiaccount policy</h3>
-
-#### _This is how we handle cheaters and multiaccounters on Ripple._
-
-1. Cheating and multiaccount is strictly prohibited.
-2. It doesn't matter if you cheated on any other osu! server - we only care about what you did on Ripple.
-3. Multiaccounts are **NOT** allowed, with the **SOLE EXCEPTION OF CHAT BOTS**.  If you are developing one and need an account for it,  mail [support](mailto:support@ripple.moe) (or a [dev](mailto:howl@ripple.moe))
-4. We reserve the right to change these rules as we see fit.
-
-<h3><i class="list layout icon"></i> Miscellaneous</h3>
-
-1. You can change your profile flag mailing [support](mailto:support@ripple.moe), and sending a picture with a valid document and a post-it or a piece of paper with your Ripple name.
-2. Name changes are handled through our [support website.](https://support.ripple.moe)
+### **We reserve the right to change these rules at our discretion.**
