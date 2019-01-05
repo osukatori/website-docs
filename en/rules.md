@@ -5,7 +5,7 @@ old_id: 16
 ***Rules can be edited at any time.
 New rules can be abusive for our mood.***
 
-**Main rules**</br>
+**Main rules**
 *Any rulebreaking in this section gives you an restriction or a ban, temp or permanent, in case of an order.*
 - Any lie, cheating and other kinds of hacking are prohibited.
 - Modified osu! clients, for an exception of next rule, are not allowed.
