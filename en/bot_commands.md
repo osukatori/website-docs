@@ -14,10 +14,12 @@ old_id: 4
 ## **Tillerino-like commands**
 Crystal has the similar command to the Tillerino. But, they are working faster because of  
 implemented inside of a server core.
+
 -   `/np` – shows pp for a beatmap (works only for osu!std)
 -   `!with <mods>` - Shows you pp for a map for /np with mods, for example: NF, EZ, HD, HR, DT, HT, NC, FL, SO. *Don't use the space between mods!* (eg: `!with HDHR`)
 
 ## **Admin commands:**
+
 -   `!system restart` – Restarts the server
 -   `!system status` – Shows the system current status
 -   `!system reload` – Reloads the system config file (RAP)

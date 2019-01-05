@@ -5,8 +5,9 @@ old_id: 16
 ***Rules can be edited at any time.
 New rules can be abusive for our mood.***
 
-**Main rules**
+ **Main rules**
 *Any rulebreaking in this section gives you an restriction or a ban, temp or permanent, in case of an order.*
+
 - Any lie, cheating and other kinds of hacking are prohibited.
 - Modified osu! clients, for an exception of next rule, are not allowed.
 - Client fixes (instead of hosts changing) is allowed, but we can’t help you if you will break game client O_o.
@@ -15,7 +16,7 @@ New rules can be abusive for our mood.***
 - Use your own nicknames (without insulting or stolen names, for example, you can’t use these: Cookiezi, WubWoofWolf, Rafis, _index, alumetri etc.)
 - Don’t use our patience; We’re trying to satisfy the needs of our users, If you are multi-rulebreaking or abusing our services, for example: ban appeal or 1 free name change (Especially in case of users, who also disrespects the efforts of our staff), we’re will warn you, and if this will happen again, we will offer the ultimatum. If you are rejecting or you will not change your behaviour, we will have no other choice, besides ban you.
 
- **Chat rules**</br>
+ **Chat rules**
 *Any rulebreaking in this section gives you silence.
 These rules working for the Discord, as like to the game chat. In Discord chat there some rules, specific to Discord server. For this reason you also need to check #rules channel on the server.*
 
@@ -30,6 +31,7 @@ Remember to follow the general rules above!
 
 **Profile rules.**</br>
 *Any rulebreaking in this section gives you an silence and profile reset/avatar reset.*
+
 - NSFW containment and insulting avatars/profiles are prohibited.
 - Do not link to lawbreaking things, except porn/hacks/viruses on the user profile.
 - Don’t use insulting user badges and do not pretend to be someone with his special badge. If you’re abusing the badge system, you will be forced to change your badge or you will not be able to edit your custom badge again.
