@@ -16,7 +16,7 @@ Crystal has the similar command to the Tillerino. But, they are working faster b
 implemented inside of a server core.
 
 -   `/np` – shows pp for a beatmap (works only for osu!std)
--   `!with <mods>` - Shows you pp for a map for /np with mods, for example: NF, EZ, HD, HR, DT, HT, NC, FL, SO. *Don't use the space between mods!* (eg: `!with HDHR`)
+-   `!with <mods>` - Shows you pp for a map for /np with mods, for example: NF, EZ, HD, HR, DT, HT, NC, FL, SO, RX, AP. *Don't use the space between mods!* (eg: `!with HDHR`)
 
 ## **Admin commands:**
 
@@ -33,4 +33,6 @@ implemented inside of a server core.
 -   `!unrestrict <username>` - Removes restrict from the user.
 -   `!crystal reconnect` – Crystal reconnect. This is needed when Crystal is not on a players list.
 -   `!alert <message>` - Global message. As usual, stupid CM’s use it for a trolling
--   `!alertuser <username> <message>` - User message, works like usual !alert but for an one player
+-   `!useralert <username> <message>` - User message, works like usual !alert but for an one player
+-   `!rtx <username> <message>` - Shows a message to the entire game window.
+-   `!kill <username>` - Kills user game

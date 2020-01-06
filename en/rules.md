@@ -22,7 +22,7 @@ These rules working for the Discord, as like to the game chat. In Discord chat t
 
 - Avoid any insults to people. Try to be friendly. If you can’t, try to be constructive in argue.
 - Racism is strongly prohibited. Terms like «stupid» и «fogy» good for objects, but not for people.
-- Spam or flood, if you post a link from time to time, for example, to Twitch, if you are streaming Katori, when there are no active people is not allowed.
+- Spam or flood, if you post a link from time to time, for example, to Twitch, if you are streaming Kurikku, when there are no active people is not allowed.
 - Any lawbreaking things, viruses are strongly prohibited. (This includes posting parts of the source code that you are not allowed to share.)
 - NSFW and mutilations vids or pics are not allowed.
 - If this is not special-language channel, please, speak in English.
@@ -36,7 +36,15 @@ Remember to follow the general rules above!
 - Do not link to lawbreaking things, except porn/hacks/viruses on the user profile.
 - Don’t use insulting user badges and do not pretend to be someone with his special badge. If you’re abusing the badge system, you will be forced to change your badge or you will not be able to edit your custom badge again.
 - Lies and multi-accounting are strongly prohibited.
-- This doesn’t matter if you will change the osu! server - we’re carrying only about you’ve done on Katori.
+- This doesn’t matter if you will change the osu! server - we’re carrying only about you’ve done on Kurikku.
 - Multi-accounts are NOT allowed, with several exceptions. For example, if you’re a dev and you need an account, - write to support by mail.
+
+**Criteria for obtaining a verified account.**
+
+You, as a player, must have:
+6.000+ pp
+any 400+ pp score
+
+If your profile meets these criteria, you should contact the kurikku administration! (community managers or replay moderators) for further instructions on confirmation.
 
 ### **We reserve the right to change these rules at our discretion.**

@@ -6,4 +6,5 @@ Katori at this moment has one main bot – **Crystal**. This bot is a fork of Fo
 
 List of bots:
 
--   Crystal – [Commands](https://katori.fun/doc/16) - [Source](https://github.com/osukatori/peppy/src/master/constants/fokabotCommands.py)
+-   Crystal – [Commands](https://kurikku.pw/doc/16) - [Source](https://github.com/osukurikku/peppy/tree/master/bot)
+-   Crystal Discord - `write !help in any chat of discord` - [Source](https://github.com/osukurikku/kurikku-ds-bot)

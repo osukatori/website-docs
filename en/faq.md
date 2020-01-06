@@ -18,7 +18,7 @@ old_id: 2
 -----------------------
 
  - I need the certificate, for the N reason.
- - Yeah, no problem. [*link*](https://katori.fun/static/cert.crt)
+ - Yeah, no problem. [*link*](https://cdn.discordapp.com/attachments/514386067521142784/546689753299288075/kurikku.crt)
 
 -----------------------
 

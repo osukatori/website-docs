@@ -7,4 +7,6 @@ Katori на данный момент имеет лишь одного глав�
 
 Список ботов:
 
--   Crystal – [Commands](https://katori.fun/doc/16) - [Source](https://github.com/osukatori/peppy/src/master/constants/fokabotCommands.py)
+-   Crystal – [Commands](https://kurikku.pw/doc/16) - [Source](https://github.com/osukurikku/peppy/tree/master/bot)
+-   Crystal Discord - `write !help in any chat of discord` - [Source](https://github.com/osukurikku/kurikku-ds-bot)
+

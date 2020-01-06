@@ -13,7 +13,7 @@ reference_version: 5daf21693c3faba4ac5612b613fb3a07
 -----------------------
 
 - Слушай, мне нужен сертификат, по N причине.
-- Да, держи не проблема. [*Сыль*](https://katori.fun/static/cert.crt)
+- Да, держи не проблема. [*Сыль*](https://cdn.discordapp.com/attachments/514386067521142784/546689753299288075/kurikku.crt)
 
 -----------------------
 
